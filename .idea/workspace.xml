@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bfa86c31-d9e7-4100-9c59-73c555dc22e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAII/src/main/20-02/Fraccion.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAII/src/main/20-02/FraccionMutable.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAII/src/main/20-02/Persona.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAII/src/main/20-02/Tiempo.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAII/src/main/20-02/funciones.sc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAII/src/main/25-02/funcionesVariadas.sc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAII/2026-02-24/build.sbt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAII/2026-02-24/src/main/scala/Fraccion.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAII/2026-02-24/src/main/scala/FraccionMutable.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAII/2026-02-24/src/main/scala/Persona.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAII/2026-02-24/src/main/scala/Tiempo.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PAII/2026-02-24/src/main/scala/funciones.sc" beforeDir="false" />
-    </list>
+    <list default="true" id="bfa86c31-d9e7-4100-9c59-73c555dc22e5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
